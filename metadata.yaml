@@ -1,0 +1,32 @@
+_repo: The-Englishman-in-China-During-the-Victorian-Era-Vol.-I--of-2-and-Japan_42732
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42732-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Michie, Alexander
+    birthdate: 1833
+    deathdate: 1902
+    gutenberg_agent_id: '41844'
+    url: http://www.gutenberg.org/2009/agents/41844
+description: ''
+gutenberg_issued: '2013-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42732'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Japan -- Foreign relations -- Great Britain'
+- !lcsh 'Great Britain -- Foreign relations -- China'
+- !lcsh 'China -- Foreign relations -- Great Britain'
+- !lcsh 'Alcock, Rutherford, Sir, 1809-1897'
+- !lcsh 'Great Britain -- Foreign relations -- Japan'
+title: "The Englishman in China During the Victorian Era, Vol. 1 (of 2)\r\nAs Illustrated\
+  \ in the Career of Sir Rutherford Alcock, K.C.B., D.C.L., Many Years Consul and\
+  \ Minister in China and Japan"
+url: http://www.gutenberg.org/ebooks/42732
